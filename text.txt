@@ -1,0 +1,2 @@
+1. Aggiungere due attributi a CViaggio di tipo Caereoporto chiamati "partenza" e "arrivo"
+2. Aggiungere un metodo a CViaggio un metodo che permetta di modificare l'arrivo
